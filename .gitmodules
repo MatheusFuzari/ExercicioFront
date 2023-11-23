@@ -1,0 +1,3 @@
+[submodule "ManflixBack"]
+	path = ManflixBack
+	url = https://github.com/andre-savedra/ManflixBack.git
